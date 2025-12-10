@@ -37,7 +37,7 @@
 ### Blockchain && Crypto
 ![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white)
 ![UNCOMMON•GOODS](https://img.shields.io/badge/-UNCOMMON%20GOODS-F7931A?style=flat&logo=bitcoin&logoColor=white)
-![DOG•GO•TO•THE•MOON](https://img.shields.io/badge/-DOG%20GO%20TO%20THE%20MOON-C2A633?style=flat&logo=dogecoin&logoColor=white)
+![DOG•GO•TO•THE•MOON](https://img.shields.io/badge/-DOG%20GO%20TO%20THE%20MOON-C2A633?style=flat&logo=bitcoin&logoColor=white)
 ![TON](https://img.shields.io/badge/-TON-0000FF?style=flat&logo=ton&logoColor=white)
 ![SUI](https://img.shields.io/badge/-SUI-00D1B2?style=flat&logo=sui&logoColor=white)
 ![SOL](https://img.shields.io/badge/-SOL-9945FF?style=flat&logo=solana&logoColor=white)
