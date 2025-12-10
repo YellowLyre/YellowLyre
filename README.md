@@ -19,18 +19,26 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=Vercel&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
-![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?style=flat&logo=cursor-ai-white&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![TON](https://img.shields.io/badge/-TON-0000FF?style=flat&logo=ton&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
+
+##
+### IDE
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)
+![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?style=flat&logo=cursor-ai-white&logoColor=white)
+
+##
+### Blockchain && Crypto
+![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white)
+![TON](https://img.shields.io/badge/-TON-0000FF?style=flat&logo=ton&logoColor=white)
+![OKX](https://img.shields.io/badge/-OKX-00A0E9?style=flat&logo=okx&logoColor=white)
+![Binance](https://img.shields.io/badge/-Binance-FCD535?style=flat&logo=binance&logoColor=white)
 
 ##
 ### Redes Sociales
