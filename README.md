@@ -22,11 +22,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=Vercel&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
+![ArchLinux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 
 ##
 ### IDE
@@ -36,13 +36,18 @@
 ##
 ### Blockchain && Crypto
 ![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white)
+![Runes 0](https://img.shields.io/badge/-Runes%200-F7931A?style=flat&logo=bitcoin&logoColor=white)
+![DOG Rune](https://img.shields.io/badge/-DOG%20Rune-C2A633?style=flat&logo=dogecoin&logoColor=white)
 ![TON](https://img.shields.io/badge/-TON-0000FF?style=flat&logo=ton&logoColor=white)
+![SUI](https://img.shields.io/badge/-SUI-00D1B2?style=flat&logo=sui&logoColor=white)
+![SOL](https://img.shields.io/badge/-SOL-9945FF?style=flat&logo=solana&logoColor=white)
 ![OKX](https://img.shields.io/badge/-OKX-00FF00?style=flat&logo=okx&logoColor=white)
 ![Binance](https://img.shields.io/badge/-Binance-FCD535?style=flat&logo=binance&logoColor=white)
 
 ##
 ### Redes Sociales
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/developer-mdcm/)
+![88 Mailbox](https://img.shields.io/badge/-88%20Mailbox-000000?style=flat&logo=envelope&logoColor=white)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:autisticyipie@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/YellowLyre)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/)
