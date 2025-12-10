@@ -1,6 +1,6 @@
 <h3 align="center"><samp> Hi, I'am Theodore👋 </samp></h4> 
 <h1 align="center">FullStack DEV Python🐍 & Rust🥷</h1>
-<p align="center"><img align="center"  width="182" src="https://komarev.com/ghpvc/?username=DeveloperMDCM&color=green&label=DeveloperMDCM%20profile%20views"/></p> 
+<p align="center"><img align="center"  width="182" src="https://komarev.com/ghpvc/?username=YellowLyre&color=green&label=DeveloperMDCM%20profile%20views"/></p> 
 <p align="center"><a href=#><img src="contributions.svg"></a></p> 
 <div align="center">
 
