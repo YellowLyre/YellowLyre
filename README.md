@@ -1,11 +1,11 @@
 <h3 align="center"><samp> Hi, I'am Theodore👋 </samp></h4> 
 <h1 align="center">FullStack DEV Python🐍 & Rust🥷</h1>
-<p align="center"><img align="center"  width="182" src="https://komarev.com/ghpvc/?username=YellowLyre&color=green&label=DeveloperMDCM%20profile%20views"/></p> 
+<p align="center"><img align="center"  width="182" src="https://komarev.com/ghpvc/?username=YellowLyre&color=green&label=YellowLyre%20profile%20views"/></p> 
 <p align="center"><a href=#><img src="contributions.svg"></a></p> 
 <div align="center">
-![Views](https://komarev.com/ghpvc/?username=YellowLyre&label=Profile%20views&color=0e75b6&style=flat)
 
-  ## Mis Lenguajes y herramientas
+
+  ## My Languages & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
