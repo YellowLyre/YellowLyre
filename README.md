@@ -3,6 +3,7 @@
 <p align="center"><img align="center"  width="182" src="https://komarev.com/ghpvc/?username=YellowLyre&color=green&label=DeveloperMDCM%20profile%20views"/></p> 
 <p align="center"><a href=#><img src="contributions.svg"></a></p> 
 <div align="center">
+![Views](https://komarev.com/ghpvc/?username=YellowLyre&label=Profile%20views&color=0e75b6&style=flat)
 
   ## Mis Lenguajes y herramientas
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
