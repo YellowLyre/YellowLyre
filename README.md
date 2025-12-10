@@ -37,7 +37,7 @@
 ### Blockchain && Crypto
 ![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white)
 ![TON](https://img.shields.io/badge/-TON-0000FF?style=flat&logo=ton&logoColor=white)
-![OKX](https://img.shields.io/badge/-OKX-666666?style=flat&logo=okx&logoColor=white)
+![OKX](https://img.shields.io/badge/-OKX-00FF00?style=flat&logo=okx&logoColor=white)
 ![Binance](https://img.shields.io/badge/-Binance-FCD535?style=flat&logo=binance&logoColor=white)
 
 ##
