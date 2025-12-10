@@ -35,13 +35,13 @@
 
 ##
 ### Blockchain && Crypto
-![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white)
-[![UNCOMMON•GOODS](https://img.shields.io/badge/-UNCOMMON%20GOODS-F7931A?style=flat&logo=bitcoin&logoColor=white)](https://www.nodeseek.com/)
-![DOG•GO•TO•THE•MOON](https://img.shields.io/badge/-DOG%20GO%20TO%20THE%20MOON-F7931A?style=flat&logo=bitcoin&logoColor=white)
-![TON](https://img.shields.io/badge/-TON-0000FF?style=flat&logo=ton&logoColor=white)
+[![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white)](https://b.tc/)
+[![UNCOMMON•GOODS](https://img.shields.io/badge/-UNCOMMON%20GOODS-F7931A?style=flat&logo=bitcoin&logoColor=white)](https://www.uncommongoods.top/)
+[![DOG•GO•TO•THE•MOON](https://img.shields.io/badge/-DOG%20GO%20TO%20THE%20MOON-F7931A?style=flat&logo=bitcoin&logoColor=white)](https://doggotothemoon.io/)
+[![TON](https://img.shields.io/badge/-TON-0000FF?style=flat&logo=ton&logoColor=white)](https://ton.org/)
 ![SUI](https://img.shields.io/badge/-SUI-00D1B2?style=flat&logo=sui&logoColor=white)
 ![SOL](https://img.shields.io/badge/-SOL-9945FF?style=flat&logo=solana&logoColor=white)
-![OKX](https://img.shields.io/badge/-OKX-00FF00?style=flat&logo=okx&logoColor=white)
+[![OKX](https://img.shields.io/badge/-OKX-00FF00?style=flat&logo=okx&logoColor=white)](https://www.bjwebptyiou.com/join/74440600)
 ![Binance](https://img.shields.io/badge/-Binance-FCD535?style=flat&logo=binance&logoColor=white)
 
 ##
